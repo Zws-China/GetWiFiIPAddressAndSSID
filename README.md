@@ -1,0 +1,2 @@
+# GetWiFiIPAddressAndSSID
+获取设备连接的Wifi的IP地址和Wifi名称
